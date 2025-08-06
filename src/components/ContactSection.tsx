@@ -120,15 +120,15 @@ const ContactSection = () => {
                 <h3 className="text-2xl font-semibold">Connect With Me</h3>
                 <div className="space-y-4">
                   <a
-                    href="mailto:miten.nakum@example.com"
+                    href="mailto:mitennakum45@gmail.com"
                     className="flex items-center space-x-3 text-muted-foreground hover:text-accent transition-colors"
                   >
                     <Mail className="h-5 w-5" />
-                    <span>miten.nakum@example.com</span>
+                    <span>mitennakum45@gmail.com</span>
                   </a>
                   
                   <a
-                    href="https://linkedin.com/in/miten-nakum"
+                    href="https://www.linkedin.com/in/miten-nakum"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center space-x-3 text-muted-foreground hover:text-accent transition-colors"

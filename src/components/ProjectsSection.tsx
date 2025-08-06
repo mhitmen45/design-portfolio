@@ -32,7 +32,7 @@ const ProjectsSection = () => {
       ],
       image: crmImage,
       tags: ["Web Design", "Mobile Design", "CRM", "Real Estate"],
-      figmaLink: "https://www.figma.com/design/crm-blink-project"
+      figmaLink: "https://www.figma.com/designhttps://www.figma.com/design/drBhgCruJZ5tv7DUOnzE4M/Untitled?node-id=0-1&p=f&t=vkjO32VApNOfKT84-0/crm-blink-project"
     },
     {
       id: "hrms",
@@ -52,7 +52,7 @@ const ProjectsSection = () => {
       ],
       image: hrmsImage,
       tags: ["Web Design", "Mobile Design", "HR Tech", "Enterprise"],
-      figmaLink: "https://www.figma.com/design/hrms-human-resource-app"
+      figmaLink: "https://www.figma.com/design/He3PF1xFEizZrcOJuNWAQk/HRMS?t=vkjO32VApNOfKT84-0"
     },
     {
       id: "linkedin",
@@ -73,7 +73,7 @@ const ProjectsSection = () => {
       ],
       image: linkedinImage,
       tags: ["Concept Design", "Social Media", "UI Redesign", "UX Research"],
-      figmaLink: "https://www.figma.com/design/linkedin-redesign-concept"
+      figmaLink: "https://www.figma.com/design/8TbduGehuRycan8BoVGlX8/linkedin-design?t=vkjO32VApNOfKT84-0"
     },
     {
       id: "ecommerce",
@@ -93,7 +93,7 @@ const ProjectsSection = () => {
       ],
       image: ecommerceImage,
       tags: ["E-commerce", "Web Design", "Fashion", "Visual Design"],
-      figmaLink: "https://www.figma.com/design/dope-lifestyle-ecommerce"
+      figmaLink: "https://www.figma.com/design/X9lCxS0W9hhKREl0c5VE88/dope-lifestyle?t=vkjO32VApNOfKT84-0"
     },
     {
       id: "wellness",
@@ -114,7 +114,7 @@ const ProjectsSection = () => {
       ],
       image: wellnessImage,
       tags: ["Mobile Design", "Health Tech", "Forms", "Email Design"],
-      figmaLink: "https://www.figma.com/design/wellness-questionnaire-form"
+      figmaLink: "https://www.figma.com/design/CYfJCCNvMta4Wm9PEihD5I/wellness-app?t=vkjO32VApNOfKT84-0"
     },
     {
       id: "coffee",
@@ -134,7 +134,7 @@ const ProjectsSection = () => {
       ],
       image: coffeeImage,
       tags: ["Mobile Design", "Food & Beverage", "Playful Design", "UI Design"],
-      figmaLink: "https://www.figma.com/design/coffee-shop-mobile-ui"
+      figmaLink: "https://www.figma.com/design/GvYgeDE6mjkxtlMcWgvYaC/coffee-shop-assignment?node-id=510-6020&p=f&t=vkjO32VApNOfKT84-0"
     }
   ];
 
