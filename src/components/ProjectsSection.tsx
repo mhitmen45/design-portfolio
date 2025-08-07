@@ -32,7 +32,7 @@ const ProjectsSection = () => {
       ],
       image: crmImage,
       tags: ["Web Design", "Mobile Design", "CRM", "Real Estate"],
-      figmaLink: "https://www.figma.com/design/drBhgCruJZ5tv7DUOnzE4M/Untitled?node-id=0-1&p=f&t=p4NYkH3lUHH6HeLf-0"
+      figmaLink: "https://www.figma.com/design/drBhgCruJZ5tv7DUOnzE4M/Untitled?node-id=0-1&t=y3Q9Tsyae9xdEIpJ-1"
     },
     {
       id: "hrms",
