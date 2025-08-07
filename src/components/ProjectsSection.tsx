@@ -32,7 +32,7 @@ const ProjectsSection = () => {
       ],
       image: crmImage,
       tags: ["Web Design", "Mobile Design", "CRM", "Real Estate"],
-      figmaLink: "https://www.figma.com/designhttps://www.figma.com/design/drBhgCruJZ5tv7DUOnzE4M/Untitled?node-id=0-1&p=f&t=vkjO32VApNOfKT84-0/crm-blink-project"
+      figmaLink: "https://www.figma.com/design/drBhgCruJZ5tv7DUOnzE4M/Untitled?node-id=0-1&p=f&t=p4NYkH3lUHH6HeLf-0"
     },
     {
       id: "hrms",
